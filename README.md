@@ -84,6 +84,14 @@ Based on the full dataset:
 
 ## Project Demonstration
 
+Watch the interactive Power BI dashboard in action.
+
+**[▶ Watch Final Dashboard Showcase](recordings/07-final-dashboard-showcase.mov)**
+
+The demonstration shows how the Year, Region, and Category slicers dynamically update sales, profit, orders, and visualizations.
+
+For additional information about the development process, see the [Development Recordings](recordings/README.md).
+
 Development recordings and a final dashboard walkthrough document the process of building and testing the report.
 
 ## Conclusion
